@@ -11,6 +11,10 @@ Acesse aqui [Queijo Artesanal](https://queijo.vercel.app/Premios.html)
 Um pouco sobre o queijo de Serro.
 
 “Queijo de Leite Cru integral bovino, cor branco-amarelada, forma cilíndrica e superfície plana, crosta fina e lisa, consistência semidura. Massa crua a compacta, de cor clara com presença de olhaduras. Sabor brando e ligeiramente ácido”.
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/94201226/196590627-bf943995-b7f2-4e3c-afbe-2fb9b23638e7.png)
+
 
 # 🍿  🧀🍿 Demo  🍿  🧀🍿
 
