@@ -85,6 +85,20 @@ header nav a:hover{
     margin-top:30px;
 }
 
+.soro-principal{
+    font-size:16px;
+    background: linear-gradient(rgba(0,0,0,.100),rgba(0,0,10,.100)50%),  url('https://cdn.sertaobras.org.br/wp-content/uploads/2011/01/banner_serro.jpg');
+
+    height:500px;
+    background-size:cover;
+ 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top:30px;
+}
 
 .filme-principal .descricao{
     margin-top: 10px;
@@ -191,10 +205,20 @@ header nav a:hover{
     font-size: 20px;
     justify-content: center;
     align-items: center;
-    width: 90%;
+    width: 70%;
     margin-left: 30px;
     color:#AAA;
 }
+
+.texto1{
+    width: 90%;
+    margin-left: 50px;
+    margin-right:30px
+    color:#AAA;
+    font-size: 20px;
+    justify-content: justify;
+}
+
 .tituloqueijo{
     justify-content: center;
     align-items: center;
@@ -207,7 +231,7 @@ header nav a:hover{
     flex-direction: column;
     
     //flex-direction: row;
-    align-items: center;
+    align-items: start;
     justify-content: space-between;
     margin-top: 80px;
     margin-bottom: 80px;
@@ -215,11 +239,18 @@ header nav a:hover{
     font-size:18px;
     text-decoration:none;
     color:#AAA;
+    decoration: none;
     
 }
 .local{
     text-decoration:none;
     color: #AAA;
+}
+
+.row{
+    text-decoration:none;
+    color: #AAA;
+    decoration: none;
 }
 
 .sobre{
